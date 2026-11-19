@@ -32,8 +32,8 @@
   --ifm-font-family-monospace: 'JetBrains Mono', 'SFMono-Regular', Consolas, monospace;
  
   --ifm-font-color-base: var(--paper-ink);
-  --ifm-background-color: #ffffff;
-  --ifm-navbar-background-color: #ffffff;
+  --ifm-background-color: ##ff0095;
+  --ifm-navbar-background-color: ##ff0095;
   --ifm-footer-background-color: #1c1e21;
  
 /** 

@@ -34,6 +34,8 @@ and
 
 While many theories exist about the exact mechanism behind zombie infections, the most prominent one was made famous in the video game and television series *The Last of Us*. Essentially, a mutated strain of Ophiocordyceps — a real-world "zombie ant" fungus [1] — evolved to survive human body temperature and infect the brain, turning its living host into a hyper-aggressive puppet whose sole drive is to spread the fungus to others through chewing into their flesh.[^fungus]
 
+![A Crazy Picture](img/pizza.jpg)
+
 ## 3. A Four-Step Plan {#foursteps}
 
 We want to suggest a four-step plan for the Isla Vista Community Services District:
